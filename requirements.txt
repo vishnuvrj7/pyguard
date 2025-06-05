@@ -1,0 +1,9 @@
+scapy
+pypcap
+winpcapy
+scapy-http
+colorama
+pyyaml
+prompt-toolkit
+matplotlib
+numpy
